@@ -1,7 +1,0 @@
-{
-  "author": "Nanar Boursalian",
-  "license": "MIT",
-  "devDependencies": {
-    "eslint-config-discourse": "latest"
-  }
-}
