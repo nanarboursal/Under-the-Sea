@@ -6,11 +6,11 @@
   "name": "Under the Sea",
   "color_schemes": {
     "Default": {
-      "primary": "f1d6bc",
-      "secondary": "34666f",
+      "primary": "272951",
+      "secondary": "b3cfdd",
       "tertiary": "416376",
       "quaternary": "5E99B9",
-      "header_background": "FaFaFa",
+      "header_background": "b19cd9",
       "header_primary": "EEF4F7",
       "highlight": "86BDDB",
       "danger": "8F393E",
