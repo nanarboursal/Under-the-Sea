@@ -1,0 +1,6 @@
+---
+header-size: 
+  default: 4,
+  min: 4,
+  max: 8,
+  description: "This changes the size of the header!"
