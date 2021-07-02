@@ -1,4 +1,15 @@
 <div class="footer-banner">
-    <h1 class="hello-there">Hello from Under the Sea!<i class="fas fa-book"></i></h1>
+    <h1 class="hello-there">Hello from Under the Sea!</h1>
+    <script type="text/discourse-plugin" version="0.8">
+        const { iconNode } = require("discourse-common/lib/icon-library");
+        api.decorateWidget('header-icons:before', helper => {
+            return helper.h('li', [
+                helper.h('a.icon', {
+                    href:'https://foo.bar.com/',
+                    title: 'Foobar'
+                }, iconNode('book')),
+            ]);
+        });
+      </script>
  </div>
  
