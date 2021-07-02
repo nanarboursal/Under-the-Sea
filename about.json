@@ -1,5 +1,5 @@
 {
-  "about_url": null,
+  "about_url": "https://github.com/nanarboursal/Under-the-Sea.git",
   "license_url": "https://github.com/nanarboursal/Under-the-Sea/blob/master/LICENSE",
   "assets": {
   },
@@ -17,5 +17,8 @@
       "success": "70DB82",
       "love": "FC94CB"
     }
+  },
+  "modifiers": {
+    "serialize_topic_excerpts": true
   }
 }
