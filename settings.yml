@@ -4,3 +4,7 @@ header-size:
   min: 4,
   max: 8,
   description: "This changes the size of the header!"
+svg_icons: 
+  default: 'question-circle|wallet'
+  type: 'list'
+  list_type: 'compact'
